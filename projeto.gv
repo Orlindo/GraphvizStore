@@ -1,0 +1,10 @@
+graph Projeto {
+	Conjunto
+	"Peça1"
+	"Peça2"
+	"PEça3"
+	"Peça4"
+	"Peça5"
+	"Peça6"
+	Conjunto -- "Peça1"
+}
