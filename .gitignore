@@ -4,3 +4,5 @@ Store/Produtos/Listas/
 Store/Produtos/Montagens/
 
 Store/Peças/
+
+__pycache__/
