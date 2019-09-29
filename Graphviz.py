@@ -14,4 +14,5 @@ class Graphviz:
         self.g.node(peca.nome)
 
     def add_edge(self, pai, filho):
+        print (pai.nome)
         self.g.edge(pai.nome, filho.nome)

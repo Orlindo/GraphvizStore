@@ -4,10 +4,10 @@ class Peca:
 
     def __init__(self, nome):
         self.nome = nome
-        self.filhos = []
-        self.pais = []
-        self.qtd_filhos = []
-        self.qtd_pais = []
+        self.filhos = array
+        self.pais = array
+        self.qtd_filhos = array
+        self.qtd_pais = array
 
     def toString(self):
         return self.nome
