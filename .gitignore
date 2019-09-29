@@ -6,3 +6,7 @@ Store/Produtos/Montagens/
 Store/Peças/
 
 __pycache__/
+
+*.gv
+
+*.pdf
